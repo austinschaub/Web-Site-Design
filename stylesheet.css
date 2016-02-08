@@ -11,6 +11,45 @@ margin: 0 auto;
   height: 100px;
 }
 
+.main {
+text-align: left;
+font-size: 19 pt;
+width: 800px;
+
+	
+}
+
+.image {
+	float: right;
+	background-color: white; 
+	border: 5px solid black;
+	width: 400px;
+	height: 400px;
+	padding: 10px;
+	margin-bottom: 15px;
+	
+	padding-bottom: 10px;
+
+	margin-left: 20px;
+	text-align: center
+}
+
+
+
+.image2 {
+	float: left;
+	background-color: white; 
+	border: 5px solid black;
+	width: 400px;
+	height: 300px;
+	padding: 20px;
+	padding-bottom: 10px;
+	margin-right: 20px;
+	margin-left: auto;
+	margin-top: 15px;
+	text-align: center
+}
+
 .name {
   color: #DF723E;
   display: inline-block;
@@ -72,7 +111,7 @@ margin: 0 auto;
   font-size: .9em;
   line-height: 1.4em;
   margin-bottom: 1%;
-  margin-left: 2%;
+  margin-left: 2%;  
   margin-right: 7%;
   margin-top: 1em;
 }
@@ -98,6 +137,8 @@ hr {
 }
 
 .boxed {
-  border: 2px solid green ;
+  border: 2px solid black;
+  width: 500px;
+  
 }
 
